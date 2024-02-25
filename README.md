@@ -11,7 +11,7 @@
 <br>
 
 ## 🖥 배포링크
-[🔗 링크](http://pre41-deploy-test.s3-website.ap-northeast-2.amazonaws.com/)
+[🔗 링크](https://gohiking.co.kr/)
 
 <br>
 
